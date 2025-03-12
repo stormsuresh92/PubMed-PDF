@@ -3,6 +3,7 @@ This repository contains a Python script that allows you to download free resear
 
 Steps:
 Step 1: List out the PMCIDs in inputfile.txt
+
 Step 2: Run the PDF_downloader.py script
 
 Keywords: Download research articles; Download journal articles; Download PubMed Central articles; Download Pubmed articles
